@@ -6,9 +6,17 @@
 <br>
 
 <!-- ### I am a Full Stack Developer who makes web applications. Check out some of the things I've made on **[my portfolio](https://danielvaldezmontalvan.com)** -->
-
 Hi 👋 My name is Daniel Valdez Montalvan
-========================================Full Stack Web Developer------------------------I specialize in designing and developing front-end experiences to organizations, companies, start-ups and individuals. I use my passion and skills to create beautiful and scalable web applications tailor-made for them, in order to help them to stand out in the market, optimize resources and achieve their goals.*🖥️  See my portfolio at [danielvaldezmontalvan.com](http://danielvaldezmontalvan.com)* ✉️  You can contact me at [danielvaldezmontalvan@gmail.com](mailto:danielvaldezmontalvan@gmail.com)* ⚡  I have a master's in economics. I am a Native Spanish speaker and fluent in English and Portuguese.
+========================================
+
+Full Stack Web Developer
+------------------------
+
+I specialize in designing and developing front-end experiences to organizations, companies, start-ups and individuals. I use my passion and skills to create beautiful and scalable web applications tailor-made for them, in order to help them to stand out in the market, optimize resources and achieve their goals.
+
+* 🖥️  See my portfolio at [danielvaldezmontalvan.com](http://danielvaldezmontalvan.com)
+* ✉️  You can contact me at [danielvaldezmontalvan@gmail.com](mailto:danielvaldezmontalvan@gmail.com)
+* ⚡  I have a master's in economics. I am a Native Spanish speaker and fluent in English and Portuguese.
 
 ### Skills
 
